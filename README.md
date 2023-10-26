@@ -1,4 +1,4 @@
-# OOP-hw
+# OOP-hw assignment 1
 Откройте терминал или командную строку.
 Перейдите в каталог, где расположены исходные файлы Java (PersonalAccount.java и Amount.java).
 написать команду 
